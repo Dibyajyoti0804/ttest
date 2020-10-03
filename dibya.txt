@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1095-8E14
+
+ Directory of C:\Users\Dibya\SeleniumStart\GitIntegration\src\NewPackage
+
+03-10-2020  15:51    <DIR>          .
+03-10-2020  15:51    <DIR>          ..
+03-10-2020  15:51                 0 dibya.txt
+03-10-2020  15:47               508 HelloJava.class
+03-10-2020  14:35               203 HelloJava.java
+03-10-2020  15:44               477 readme.txt
+               4 File(s)          1,188 bytes
+               2 Dir(s)  398,826,106,880 bytes free
